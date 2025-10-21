@@ -1,8 +1,6 @@
 title: Agripino Sousa-Neto
 description: Cosmólogo | Pesquisador em Astronomia e Cosmologia
-logo: /assets/images/logo.jpeg
-
 remote_theme: pages-themes/minimal@v0.2.0
-show_downloads: true
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+logo: /assets/images/foto.jpg
