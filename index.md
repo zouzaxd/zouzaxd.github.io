@@ -3,16 +3,22 @@ layout: default
 ---
 
 # Agripino Sousa-Neto
-Cosmólogo | Pesquisador em Astronomia e Cosmologia
+Cosmologist | Researcher in Astronomy and Cosmology
 
-Sou pesquisador na área de cosmologia, interessado em análise de dados de grandes surveys e modelagem teórica de inflação e energia escura.
+I am a researcher in cosmology, interested in analyzing data from large surveys and theoretical modeling of inflation and dark energy.
 
-## Pesquisas / Projetos
-- Modelos de inflação quente (warm inflation)
-- Análise de dados DESI-DR2 e supernovas
-- Regressão simbólica aplicada à cosmologia observacional
+## Research / Projects
+- Studies on warm inflation models
+- Analysis of DESI-DR2 data and supernovae
+- Symbolic regression applied to observational cosmology
 
-## Contato
+## Publications
+- **Symbolic regression analysis of dynamical dark energy**  
+  *Agripino Sousa-Neto*  
+  Published in *ScienceDirect*  
+  [Read full article](https://www.sciencedirect.com/science/article/abs/pii/S2212686425003012?via%3Dihub)
+
+## Contact
 - [GitHub](https://github.com/zouzaxd)
 - [Google Scholar](https://scholar.google.com)
 - [Email](mailto:agripinoneto@on.br)
