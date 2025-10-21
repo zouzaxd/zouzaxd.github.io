@@ -3,4 +3,4 @@ description: Cosmólogo | Pesquisador em Astronomia e Cosmologia
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
-logo: /assets/images/foto.jpg
+logo: /assets/images/logo.jpeg
