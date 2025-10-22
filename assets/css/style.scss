@@ -11,3 +11,7 @@ img[src*="logo.jpeg"] {
   font-size: 8px;   /* diminua até caber em uma linha */
   line-height: 1.2;
 }
+/* Largura da barra lateral */
+.sidebar {
+  width: 250px;      /* aumente até caber o nome */
+}
