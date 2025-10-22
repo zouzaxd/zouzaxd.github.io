@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agripino Sousa-Neto
-PhD Candidate | Cosmologist 
+PhD Candidate |  Cosmology
 
 **Under construction**
 
