@@ -7,3 +7,7 @@ img[src*="logo.jpeg"] {
   width: 60px;   /* diminua até o nome caber */
   border-radius: 50%;
 }
+.sidebar-header h1 {
+  font-size: 16px;   /* diminua até caber em uma linha */
+  line-height: 1.2;
+}
