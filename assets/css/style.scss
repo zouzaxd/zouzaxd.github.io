@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img[src*="logo.jpeg"] {
+  width: 120px;   /* ajuste aqui o tamanho */
+  border-radius: 8px;
+}
