@@ -5,12 +5,11 @@ layout: default
 # Agripino Sousa-Neto
 PhD Candidate |  Cosmology
 
-I am a cosmologist working at the intersection of observational data analysis, statistics, and machine learning.
-My research focuses on testing cosmological models using direct probes such as Type Ia supernovae, baryon acoustic oscillations, cosmic chronometers, and galaxy age measurements.
+I am a cosmologist working at the intersection of observational data analysis, statistics, and machine learning. My research focuses on testing cosmological models using direct probes such as Type Ia supernovae, baryon acoustic oscillations, cosmic chronometers, and galaxy age measurements.
 
 I am particularly interested in the statistical inference and model selection aspects of cosmology, exploring data-driven approaches to understand dark energy and the expansion history of the Universe.
-
-
+## PhD in Astronomy
+  Observatório Nacional — Rio de Janeiro, RJ, Brazil
 ## Publications
 - **Symbolic regression analysis of dynamical dark energy**  
   *Agripino Sousa-Neto*  
