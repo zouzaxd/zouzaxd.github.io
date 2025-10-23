@@ -11,7 +11,7 @@ I am particularly interested in the statistical inference and model selection as
 ## PhD in Astronomy
   Observatório Nacional — Rio de Janeiro, RJ, Brazil
 ## MS in physics
-   Universidade do Estado do Rio Grande do Norte- Rio Grande do Norte, RN, Brazil
+   Universidade do Estado do Rio Grande do Norte — Rio Grande do Norte, RN, Brazil
 ## Publications
 - **Symbolic regression analysis of dynamical dark energy**  
   *Agripino Sousa-Neto*  
