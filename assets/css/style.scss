@@ -15,3 +15,9 @@ img[src*="logo.jpeg"] {
 .sidebar {
   width: 300px;      /* aumente até caber o nome */
 }
+
+/* ===== Justificar o texto principal ===== */
+.main-content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
