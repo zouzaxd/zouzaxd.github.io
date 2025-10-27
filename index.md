@@ -21,18 +21,18 @@ I am particularly interested in the statistical inference and model selection as
    Universidade do Estado do Rio Grande do Norte — Rio Grande do Norte, RN, Brazil
    
    Aug 2019 - Feb 2022 
-- **Supervised learning applied to galaxy ages**  
+- *Supervised learning applied to galaxy ages*  
 - **Advisor**: Dra. Maria Aldinêz Dantas
 
 ## Bachelor's in Physics
    Universidade do Estado do Rio Grande do Norte — Rio Grande do Norte, RN, Brazil
    
    Feb 2014 - Aug 2019
-- **Using Object Dating Methods to Teach Modern and Contemporary Physics**
+- *Using Object Dating Methods to Teach Modern and Contemporary Physics*
 - **Advisor**: Dra. Maria Aldinêz Dantas
     
 ## Publications
-- **Symbolic regression analysis of dynamical dark energy**  
+- *Symbolic regression analysis of dynamical dark energy*  
   *Agripino Sousa-Neto*  
   Published in *ScienceDirect*  
   [Read full article](https://www.sciencedirect.com/science/article/abs/pii/S2212686425003012?via%3Dihub)
