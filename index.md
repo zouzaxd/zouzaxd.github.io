@@ -18,8 +18,10 @@ I am particularly interested in the statistical inference and model selection as
 - **Advisor**: Dra. Maria Aldinêz Dantas
 ## Bachelor's in Physics
    Universidade do Estado do Rio Grande do Norte — Rio Grande do Norte, RN, Brazil
+   
+   Feb 2014 - Aug 2019
 - **Using Object Dating Methods to Teach Modern and Contemporary Physics**
-    feb 2014 - Aug 2019
+    
 ## Publications
 - **Symbolic regression analysis of dynamical dark energy**  
   *Agripino Sousa-Neto*  
