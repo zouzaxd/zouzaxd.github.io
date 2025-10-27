@@ -21,6 +21,7 @@ I am particularly interested in the statistical inference and model selection as
    
    Feb 2014 - Aug 2019
 - **Using Object Dating Methods to Teach Modern and Contemporary Physics**
+- **Advisor**: Dra. Maria Aldinêz Dantas
     
 ## Publications
 - **Symbolic regression analysis of dynamical dark energy**  
