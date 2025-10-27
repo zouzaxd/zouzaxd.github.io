@@ -14,7 +14,7 @@ I am particularly interested in the statistical inference and model selection as
    Universidade do Estado do Rio Grande do Norte — Rio Grande do Norte, RN, Brazil
    
    Aug 2019 - Feb 2022 
-- **Aprendizado supervisionado aplicado às idades de galáxias**  
+- **Supervised learning applied to galaxy ages**  
 - **Advisor**: Dra. Maria Aldinêz Dantas
 ## Bachelor's in Physics
    Universidade do Estado do Rio Grande do Norte — Rio Grande do Norte, RN, Brazil
