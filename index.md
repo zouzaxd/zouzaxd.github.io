@@ -12,6 +12,7 @@ I am particularly interested in the statistical inference and model selection as
   Observatório Nacional — Rio de Janeiro, RJ, Brazil
 ## MS in Physics
    Universidade do Estado do Rio Grande do Norte — Rio Grande do Norte, RN, Brazil
+   Aug 2019 - Feb 2022 
 - **Aprendizado supervisionado aplicado às idades de galáxias**  
 - **Advisor**: Dra. Maria Aldinêz Dantas
 ## Publications
