@@ -10,6 +10,8 @@ I am a cosmologist working at the intersection of observational data analysis, s
 I am particularly interested in the statistical inference and model selection aspects of cosmology, exploring data-driven approaches to understand dark energy and the expansion history of the Universe.
 ## PhD in Astronomy
   Observatório Nacional — Rio de Janeiro, RJ, Brazil
+  Mar 2022 – Present
+- **Advisor**: Dr. Jailson Alcaniz
 
 ## MS in Physics
    Universidade do Estado do Rio Grande do Norte — Rio Grande do Norte, RN, Brazil
