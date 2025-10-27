@@ -12,7 +12,7 @@ I am particularly interested in the statistical inference and model selection as
   Observatório Nacional — Rio de Janeiro, RJ, Brazil
 ## MS in Physics
    Universidade do Estado do Rio Grande do Norte — Rio Grande do Norte, RN, Brazil
-   ### Advisor: Dra. Maria Aldinêz Dantas
+- ** Advisor: Dra. Maria Aldinêz Dantas **
 ## Publications
 - **Symbolic regression analysis of dynamical dark energy**  
   *Agripino Sousa-Neto*  
