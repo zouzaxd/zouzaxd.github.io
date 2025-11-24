@@ -40,7 +40,7 @@ I am particularly interested in the statistical inference and model selection as
 - **Reconstructing Cosmic History with Machine Learning: A Study Using CART, MLPR, and SVR**  
   *Agripino Sousa-Neto, Maria Aldinez Dantas*  
   Published on *EPJC*  
-  [Read full article]([https://arxiv.org/abs/2505.17205](https://link.springer.com/article/10.1140/epjc/s10052-025-14884-6))
+  [Read full article](https://link.springer.com/article/10.1140/epjc/s10052-025-14884-6)
 
 - **Symbolic Regression of Dark Energy Dynamics: Latest Observational Insights**  
   *Agripino Sousa-Neto, Collaborators*  
