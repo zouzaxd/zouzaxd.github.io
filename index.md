@@ -42,8 +42,8 @@ I am particularly interested in the statistical inference and model selection as
   Published in *EPJC*  
   [Read full article](https://link.springer.com/article/10.1140/epjc/s10052-025-14884-6)
 
-- **Symbolic Regression of Dark Energy Dynamics: Latest Observational Insights**  
-  *Agripino Sousa-Neto, Collaborators*  
+- **Exploring cosmological constraints on galaxy formation time**  
+  *Agripino Sousa-Neto, Maria Aldinêz Dantas, Javier E. González, Joel C. Carvalho, Jailson Alcaniz*  
   Published on *arXiv*  
   [Read full article](https://arxiv.org/abs/2509.26611)
 
