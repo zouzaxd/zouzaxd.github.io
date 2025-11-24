@@ -32,7 +32,7 @@ I am particularly interested in the statistical inference and model selection as
 - **Advisor**: Dra. Maria Aldinêz Dantas
     
 ## Publications
-- **Symbolic regression analysis of dynamical dark energy**  
+- **Symbolic regression analysis of dynamical dark energy with DESI-DR2 and SN data**  
   *Agripino Sousa-Neto, Carlos Bengaly, Javier E. Gonzalez, Jailson Alcaniz*  
   Published in *Physics of the Dark Universe*  
   [Read full article](https://www.sciencedirect.com/science/article/abs/pii/S2212686425003012?via%3Dihub)
