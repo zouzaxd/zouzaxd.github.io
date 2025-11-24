@@ -9,8 +9,6 @@ I am a cosmologist working at the intersection of observational data analysis, s
 
 I am particularly interested in the statistical inference and model selection aspects of cosmology, exploring data-driven approaches to understand dark energy and the expansion history of the Universe.
 
-# Under construction
-
 
 ## PhD in Astronomy
   Observatório Nacional — Rio de Janeiro, RJ, Brazil
