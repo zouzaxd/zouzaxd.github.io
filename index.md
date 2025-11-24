@@ -33,13 +33,13 @@ I am particularly interested in the statistical inference and model selection as
     
 ## Publications
 - **Symbolic regression analysis of dynamical dark energy**  
-  *Agripino Sousa-Neto*  
-  Published in *PDU*  
+  *Agripino Sousa-Neto, Carlos Bengaly, Javier E. Gonzalez, Jailson Alcaniz*  
+  Published in *Physics of the Dark Universe*  
   [Read full article](https://www.sciencedirect.com/science/article/abs/pii/S2212686425003012?via%3Dihub)
 
 - **Reconstructing Cosmic History with Machine Learning: A Study Using CART, MLPR, and SVR**  
   *Agripino Sousa-Neto, Maria Aldinez Dantas*  
-  Published on *EPJC*  
+  Published in *EPJC*  
   [Read full article](https://link.springer.com/article/10.1140/epjc/s10052-025-14884-6)
 
 - **Symbolic Regression of Dark Energy Dynamics: Latest Observational Insights**  
