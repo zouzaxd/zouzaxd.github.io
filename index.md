@@ -46,6 +46,12 @@ I am particularly interested in the statistical inference and model selection as
   *Agripino Sousa-Neto, Maria Aldinêz Dantas, Javier E. González, Joel C. Carvalho, Jailson Alcaniz*  
   Published on *arXiv*  
   [Read full article](https://arxiv.org/abs/2509.26611)
+  
+  - **A model-independent assessment of the late-time dark energy density evolution**  
+  *Rayff de Souza, Agripino Sousa-Neto, Javier E. González, Jailson Alcaniz*  
+  Published on *arXiv*  
+  [Read full article](https://arxiv.org/abs/2511.13666)
+
 
 ## Contact
 - [GitHub](https://github.com/zouzaxd)
