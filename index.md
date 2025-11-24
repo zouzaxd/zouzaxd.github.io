@@ -32,15 +32,15 @@ I am particularly interested in the statistical inference and model selection as
 - **Advisor**: Dra. Maria Aldinêz Dantas
     
 ## Publications
-- *Symbolic regression analysis of dynamical dark energy*  
+- **Symbolic regression analysis of dynamical dark energy**  
   *Agripino Sousa-Neto*  
-  Published in *ScienceDirect*  
+  Published in *PDU*  
   [Read full article](https://www.sciencedirect.com/science/article/abs/pii/S2212686425003012?via%3Dihub)
 
 - **Reconstructing Cosmic History with Machine Learning: A Study Using CART, MLPR, and SVR**  
   *Agripino Sousa-Neto, Maria Aldinez Dantas*  
-  Published on *arXiv*  
-  [Read full article](https://arxiv.org/abs/2505.17205)
+  Published on *EPJC*  
+  [Read full article]([https://arxiv.org/abs/2505.17205](https://link.springer.com/article/10.1140/epjc/s10052-025-14884-6))
 
 - **Symbolic Regression of Dark Energy Dynamics: Latest Observational Insights**  
   *Agripino Sousa-Neto, Collaborators*  
