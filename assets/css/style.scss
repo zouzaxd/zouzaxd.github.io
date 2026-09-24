@@ -1,23 +1,248 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+/* =========================================
+   Agripino Sousa-Neto — Academic Website
+   ========================================= */
 
-img[src*="logo.jpeg"] {
-  width: 180px;   /* ajuste o tamanho aqui */
-  border-radius: 8px;
-}
-.sidebar-header h1 {
-  font-size: 8px;   /* diminua até caber em uma linha */
-  line-height: 1.2;
-}
-/* Largura da barra lateral */
-.sidebar {
-  width: 300px;      /* aumente até caber o nome */
+:root {
+  --nav-bg: #0b1729;
+  --hero-bg: #1c2d49;
+  --section-bg: #071525;
+
+  --text: #e8edf5;
+  --muted: #aeb9ca;
+  --accent: #d9a45b;
+
+  --max-width: 1180px;
 }
 
-/* ===== Justificar o texto principal ===== */
-.main-content p {
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--hero-bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ================= NAVBAR ================= */
+
+.navbar {
+  background: var(--nav-bg);
+  width: 100%;
+}
+
+.nav-container {
+  max-width: var(--max-width);
+  margin: auto;
+  padding: 0 32px;
+
+  min-height: 58px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-name {
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.nav-links {
+  display: flex;
+  gap: 24px;
+}
+
+.nav-links a {
+  color: #d7deea;
+  font-size: 14px;
+}
+
+.nav-links a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+/* ================= HERO ================= */
+
+.hero {
+  background: var(--hero-bg);
+  padding: 65px 0 80px;
+}
+
+.hero-container {
+  max-width: var(--max-width);
+  margin: auto;
+  padding: 0 32px;
+
+  display: grid;
+  grid-template-columns: 270px 1fr;
+  gap: 70px;
+}
+
+/* ================= PROFILE ================= */
+
+.profile {
+  text-align: center;
+}
+
+.profile img {
+  width: 210px;
+  height: 210px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.profile h1 {
+  font-size: 25px;
+  margin: 15px 0 2px;
+  font-weight: 500;
+}
+
+.profile .title {
+  color: var(--muted);
+  font-size: 14px;
+  margin: 0;
+}
+
+.profile .institution {
+  margin-top: 12px;
+  color: var(--accent);
+  font-size: 14px;
+}
+
+.social-links {
+  margin-top: 18px;
+
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.social-links a {
+  font-size: 14px;
+}
+
+/* ================= ABOUT ================= */
+
+.about {
+  font-size: 15px;
+}
+
+.about p {
   text-align: justify;
-  text-justify: inter-word;
+  margin-top: 0;
+  margin-bottom: 18px;
+}
+
+.about h2 {
+  margin-top: 25px;
+  font-size: 17px;
+  color: white;
+}
+
+.interests {
+  margin-top: 8px;
+  padding-left: 20px;
+}
+
+.interests li {
+  margin: 3px 0;
+}
+
+/* ================= SECTIONS ================= */
+
+.dark-section {
+  background: var(--section-bg);
+  padding: 65px 0;
+}
+
+.section {
+  background: var(--hero-bg);
+  padding: 65px 0;
+}
+
+.section-container {
+  max-width: var(--max-width);
+  margin: auto;
+  padding: 0 32px;
+}
+
+.section-container h2 {
+  font-size: 28px;
+  margin-top: 0;
+  margin-bottom: 35px;
+}
+
+/* ================= PUBLICATIONS ================= */
+
+.publication {
+  margin-bottom: 30px;
+}
+
+.publication-title {
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.publication-authors {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.publication-journal {
+  color: var(--accent);
+  font-size: 14px;
+}
+
+/* ================= MOBILE ================= */
+
+@media (max-width: 800px) {
+
+  .hero-container {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .nav-container {
+    flex-direction: column;
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+
+  .nav-links {
+    margin-top: 8px;
+    gap: 14px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .profile img {
+    width: 180px;
+    height: 180px;
+  }
+
 }
