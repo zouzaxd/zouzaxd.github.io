@@ -12,7 +12,8 @@ I am particularly interested in the statistical inference and model selection as
 
 ## PhD in Astronomy
   Observatório Nacional — Rio de Janeiro, RJ, Brazil
-  -*Data-driven cosmological reconstruction using Gaussian processes and machine learning*
+  
+- *Data-driven cosmological reconstruction using Gaussian processes and machine learning*
   Mar 2022 – Apr 2026
 - **Advisor**: Dr. Jailson Alcaniz
 
