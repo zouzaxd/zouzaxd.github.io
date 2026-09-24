@@ -44,13 +44,13 @@ I am particularly interested in the statistical inference and model selection as
 
 - **Exploring cosmological constraints on galaxy formation time**  
   *Agripino Sousa-Neto, Maria Aldinêz Dantas, Javier E. González, Joel C. Carvalho, Jailson Alcaniz*  
-  Published on *arXiv*  
-  [Read full article](https://arxiv.org/abs/2509.26611)
+  Published on *Physics of the Dark Universe*  
+  [Read full article](https://www.sciencedirect.com/science/article/pii/S2212686426000154?via%3Dihub)
   
 - **A model-independent assessment of the late-time dark energy density evolution**  
   *Rayff de Souza, Agripino Sousa-Neto, Javier E. González, Jailson Alcaniz*  
-  Published on *arXiv*  
-  [Read full article](https://arxiv.org/abs/2511.13666)
+  Published on *Physics of the Dark Universe*  
+  [Read full article](https://www.sciencedirect.com/science/article/pii/S2212686426000154?via%3Dihub)
 
 
 ## Contact
