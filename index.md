@@ -48,12 +48,12 @@ layout: null
 
     <!-- LEFT COLUMN -->
 
-    <aside class="profile">
+<aside class="profile">
 
-      <img src="{{ '/assets/img/logo.jpeg' | relative_url }}"
-           alt="Agripino Sousa-Neto">
+  <img src="{{ '/logo.jpeg' | relative_url }}"
+       alt="Agripino Sousa-Neto">
 
-      <h1>Agripino Sousa-Neto</h1>
+  <h1>Agripino Sousa-Neto</h1>
 
       <p class="title">
         Cosmologist
