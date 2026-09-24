@@ -50,8 +50,8 @@ layout: null
 
 <aside class="profile">
 
-  <img src="{{ '/logo.jpeg' | relative_url }}"
-       alt="Agripino Sousa-Neto">
+<img src="{{ '/assets/images/logo.jpeg' | relative_url }}"
+     alt="Agripino Sousa-Neto">
 
   <h1>Agripino Sousa-Neto</h1>
 
