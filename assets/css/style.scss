@@ -246,3 +246,22 @@ a:hover {
   }
 
 }
+.social-links {
+  margin-top: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+}
+
+.social-links a {
+  color: #d7deea;
+  font-size: 22px;
+  transition: 0.2s ease;
+}
+
+.social-links a:hover {
+  color: var(--accent);
+  transform: translateY(-2px);
+  text-decoration: none;
+}
